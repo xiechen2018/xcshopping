@@ -15,7 +15,7 @@
 
   <meta charset="UTF-8">
 
-  <title>虎哥的店铺</title>
+  <title>虎哥1店铺</title>
 
 </head>
 
@@ -25,11 +25,11 @@
 
   <form action="http://http://localhost:8080/webbxq/%E8%B4%AD%E7%89%A9%E8%BD%A6.jsp" method="get">
 
-    账号：<input type="text" name="username" placeholder="请输入用户名">
+    账号：<input type="text" name="username" placeholder="输入用户名">
 
     <br>
 
-    密码：<input type="password" name="userpassword" placeholder="请输入密码">
+    密码：<input type="password" name="userpassword" placeholder="输入密码">
 
     <br>
 
