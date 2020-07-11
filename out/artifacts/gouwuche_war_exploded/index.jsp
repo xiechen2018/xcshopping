@@ -15,7 +15,7 @@
 
   <meta charset="UTF-8">
 
-  <title>虎哥小店</title>
+  <title>虎哥的店铺</title>
 
 </head>
 
